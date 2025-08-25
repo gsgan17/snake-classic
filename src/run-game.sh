@@ -1,3 +1,3 @@
 #!/bin/sh
 DIR="$(cd "$(dirname "$0")" && pwd)"
-java -jar "$DIR/SnakeGame.jar"
+java -jar "$DIR/SnakeClassic.jar"
