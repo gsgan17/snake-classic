@@ -1,1 +1,1 @@
-Details: Basic Java Snake Game.
+Details: Basic Snake Game (Java Required).
